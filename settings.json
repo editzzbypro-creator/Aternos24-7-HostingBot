@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "escolar.aternos.host",
+    "ip": "bass.aternos.host",
     "port": 54682,
     "version": "",
     "try-creative": false
